@@ -1,24 +1,21 @@
 body {
-    background-color: #f5deb3; /* Light brown background */
+    background-color: #f5deb3; 
     font-family: 'Arial', sans-serif;
     color: #333;
     margin: 20px;
     padding: 20px;
 }
 
-/* Style the main title (h1) with a dark brown color */
 h1 {
-    color: #8b4513; /* Dark brown color for the title */
+    color: #8b4513; 
     font-size: 2.5em;
 }
 
-/* Style smaller headings (h2) with the same dark brown color */
 h2 {
-    color: #8b4513; /* Dark brown color for smaller headings */
+    color: #8b4513; 
     font-size: 2em;
 }
 
-/* Additional styling for links, images, and footer */
 a {
     color: #4682b4;
     text-decoration: none;
